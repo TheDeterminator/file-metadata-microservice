@@ -1,2 +1,1 @@
-# file-metadata-microservice
-Uploads files and determines their file size
+# Backend Challenges boilerplate - package.json
